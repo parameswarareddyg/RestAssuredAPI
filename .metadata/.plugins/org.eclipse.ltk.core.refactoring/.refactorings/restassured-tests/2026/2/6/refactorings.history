@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;restAssuredTest.CurdApiTests.java&apos; to &apos;CrudApiTests.java&apos;&#x0D;&#x0A;- Original project: &apos;restassured-tests&apos;&#x0D;&#x0A;- Original element: &apos;restAssuredTest.CurdApiTests.java&apos;&#x0D;&#x0A;- Renamed element: &apos;restAssuredTest.CrudApiTests.java&apos;" description="Rename compilation unit &apos;CurdApiTests.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;restAssuredTest{CurdApiTests.java" name="CrudApiTests.java" references="false" stamp="1770207070407" version="1.0"/>
+</session>
